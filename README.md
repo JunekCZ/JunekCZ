@@ -24,7 +24,7 @@ Always learning, always building — and always striving to keep code clean, mea
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/bvYxL.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif"  />
 
 ###
 
